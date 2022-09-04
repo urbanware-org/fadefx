@@ -19,6 +19,8 @@ You can find more text printing effects [here](https://github.com/urbanware-org/
 
 ## Details
 
+Notice that this a shell function and not a standalone script.
+
 The given string is printed using two color numbers taken from a color palette used by the shell, see [here](https://raw.githubusercontent.com/urbanware-org/salomon/master/wiki/salomon_256colors.png).
 
 The delay of fading must be given in seconds, so you can use a slow fade effect or fast one using milliseconds, which looks the more kind of flashing. Notice that flashing can lead to seizures if you are prone to such.
